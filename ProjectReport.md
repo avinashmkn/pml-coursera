@@ -4,7 +4,7 @@ Avinash M
 Feb 22, 2015
 
 ##Summary
-The goal of this course project is to utilize the activity monitor device data and generate a machine learning model]. Once the model is built, after assessing the performance the training model is to be applied to a new set of testing data to make predictions. 
+The goal of this course project is to utilize the data provided to generate a machine learning model. Once the model is built, after assessing the performance the training model is to be applied to a new set of testing data to make predictions. 
 
 ##Input Data
 The input data consisted of various movement measurments including acceleration components of the arms and pitch and roll orientations of the dumbell. More information can be found at the original data authors website linked to below.
